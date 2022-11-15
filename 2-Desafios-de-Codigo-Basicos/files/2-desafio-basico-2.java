@@ -7,7 +7,7 @@ public class Desafio {
         int A, N;
         int soma = 0;
        
-	   // Criação do objeto da classe Scanner para leitura dos dados
+        // Criação do objeto da classe Scanner para leitura dos dados
         Scanner leitor = new Scanner(System.in);
         
         System.out.println("Por favor, digite um número para o início do intervalo: ");
