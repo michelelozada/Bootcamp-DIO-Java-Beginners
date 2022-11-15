@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Bootcamp Java Begginers (2022)</h2>
+<h2>Bootcamp Java Beginners (2022)</h2>
 <h3>•&nbsp; Desafios de Código (Básicos) &nbsp;•</h3>
 </div>
 &nbsp;
