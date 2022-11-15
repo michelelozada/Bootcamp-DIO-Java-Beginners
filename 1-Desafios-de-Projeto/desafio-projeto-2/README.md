@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Bootcamp Java Begginers (2022)</h2>
-<h3>•&nbsp; Desafio de Projeto 1 &nbsp;•</h3>
+<h3>•&nbsp; Desafio de Projeto 2 &nbsp;•</h3>
 </div>
 &nbsp;
 &nbsp;
@@ -23,7 +23,7 @@
  - Abaixo, segue o diagrama UML que esbocei para representar o relacionamento entre as classes referentes a este projeto:   
 &nbsp;    
 
-![Descrição da imagem: Exibição do Diagrama UML ilustrando os relacionamentos entre classes referentes a este projeto](https://github.com/michelelozada2/java/blob/main/diagrama-uml.png "Diagrama UML" )
+![Descrição da imagem: Exibição do Diagrama UML ilustrando os relacionamentos entre classes referentes a este projeto](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/blob/main/assets/diagrama-uml.png "Diagrama UML" )
 
 
 &nbsp;

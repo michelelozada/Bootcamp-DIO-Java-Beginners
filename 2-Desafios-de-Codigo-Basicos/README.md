@@ -18,7 +18,7 @@ Receba dois números e verifique se eles são iguais. Caso sejam, retorne "São 
 |       38 |        90 | Não são iguais |
 +----------+-----------+----------------+
 ```
-[**Resolução**]()
+[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-1/files/1-desafio-basico-1.java)
 &nbsp;
 
 &nbsp;  
@@ -34,7 +34,7 @@ Dado um número A e seu limite N, encontre a soma de todos os múltiplos de A at
 |        3 |        18 |    63 |
 +----------+-----------+-------+
 ```
-[**Resolução**]()
+[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-1/files/1-desafio-basico-2.java)
 &nbsp;
 
 &nbsp;  
@@ -51,7 +51,7 @@ Receba um número inteiro N, calcule e imprima o somatório de todos os números
 |      15 |   120 |
 +---------+-------+
 ```
-[**Resolução**]()
+[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-1/files/1-desafio-basico-3.java)
 &nbsp;
 
 &nbsp;  
@@ -74,7 +74,7 @@ Crie uma função que tenha um núemro como argumento e que retorne a string:
 |       4 | 4        |
 +---------+----------+
 ```
-[**Resolução**]()
+[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-1/files/1-desafio-basico-4.java)
 &nbsp;
 
 &nbsp;  
@@ -99,4 +99,4 @@ considerando um array com os seguintes elementos: {64, 137, -16, 43, 67, 81, -90
 |       4 | Número 4 não encontrado no array! |
 +---------+-----------------------------------+
 ```
-[**Resolução**]()
+[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-1/files/1-desafio-basico-5.java)
