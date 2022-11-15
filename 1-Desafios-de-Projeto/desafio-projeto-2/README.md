@@ -8,7 +8,6 @@
 ### 1 - Descrição:
  - Abstrair um domínio chamado **Bootcamp** e modelar seus atributos e métodos.    
  - Devem existir e ser relacionadas as seguintes classes (com seus atributos e métodos): **Bootcamp**, **Cursos**, **Mentorias** e **Devs**.  
- - Mais diretivas podem ser encontradas no [repositório oficial do desafio](https://github.com/cami-la/desafio-poo-dio) da professora Camila Cavalcante.  
 &nbsp;
 &nbsp;    
 ### 2 - Objetivos:
@@ -17,7 +16,7 @@
 &nbsp;
 &nbsp;    
 ### 3 - Resultados do projeto:
- - O código resultante deste projeto, pode ser encontrado **[neste link]().**    
+ - O código resultante deste projeto, pode ser encontrado acima.    
 &nbsp;
 &nbsp;    
  - Abaixo, segue o diagrama UML que esbocei para representar o relacionamento entre as classes referentes a este projeto:   
@@ -28,7 +27,7 @@
 
 &nbsp;
 &nbsp;    
-- Por fim, seguem as informações que foram geradas a partir da execução do código do projeto *(obs: a tabela abaixo é ilustrativa para este README):* 
+- Por fim, seguem as informações que foram geradas a partir da execução do código do projeto *(obs: a tabela abaixo é ilustrativa apenas para este README):* 
 &nbsp;
 &nbsp;    
 ```

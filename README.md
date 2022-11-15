@@ -21,4 +21,4 @@
  &nbsp;
  
  - **Desafios de código**
-   - Desafios de Código 1: [Desafios Básicos](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo/desafio-codigos-basicos)
+- Desafios de Código 1: [Desafios Básicos](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos)
