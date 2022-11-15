@@ -59,7 +59,7 @@
 | ,                                                                                                         |
 | - Mentoria -                                                                                              |
 | Nome: Dominando IDEs Java                                                                                 |
-| Descrição: "Aprenda como utilizar as três principais ferramentas do mercado: IntelliJ, Eclipse e VS Code" |
+| Descrição: "Aprenda como utilizar as duas principais ferramentas do mercado: IntelliJ e Eclipse"          |
 | Data da Mentoria: 21/11/2022                                                                              |
 | ]                                                                                                         |
 +-----------------------------------------------------------------------------------------------------------+
@@ -81,7 +81,7 @@
 | [                                                                                                         |
 | - Mentoria -                                                                                              |
 | Nome: Dominando IDEs Java                                                                                 |
-| Descrição: "Aprenda como utilizar as três principais ferramentas do mercado: IntelliJ, Eclipse e VS Code" |
+| Descrição: "Aprenda como utilizar as duas principais ferramentas do mercado: IntelliJ e Eclipse"          |
 | Data da Mentoria: 21/11/2022                                                                              |
 | ]                                                                                                         |
 +-----------------------------------------------------------------------------------------------------------+
