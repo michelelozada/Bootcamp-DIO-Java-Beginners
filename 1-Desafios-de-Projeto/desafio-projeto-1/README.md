@@ -5,7 +5,7 @@
 &nbsp;
 &nbsp;
 
-## :memo: Sobre este repositório
+### :memo: Sobre este repositório
 &nbsp;    
 Diz respeito ao primeiro desafio passado no bootcamp chamado **[Java Beginners](https://www.dio.me/bootcamp/potencia-tech-powered-ifood-java-beginners)**, que está sendo promovido durante os meses de outubro e novembro de 2022 pela plataforma educacional Digital Innovation One (DIO), em parceria com o iFood/Potência Tech. 
 
@@ -14,11 +14,11 @@ O objetivo aqui é a criação de um diretório que vá contendo o planejamento 
 &nbsp; 
 
 &nbsp;    
-## :hourglass_flowing_sand:  A jornada até aqui
+### :hourglass_flowing_sand:  A jornada até aqui
 &nbsp;    
 ```mermaid
 pie showData
-  title Minha evolução no bootcamp (até 07/11/2022)
+  title Minha evolução no bootcamp (até 15/11/2022)
 	"Trilhas pendentes" : 25
     "Trilhas concluídas" : 75
 ```
@@ -27,7 +27,7 @@ pie showData
 </div>
 
 &nbsp;    
-## :bookmark_tabs: Atividades
+### :bookmark_tabs: Atividades
 &nbsp;   
 **Próximos cursos programados:**  
 - [ ] Trabalhando com Collections Java
@@ -54,7 +54,7 @@ pie showData
 &nbsp; 
 
 &nbsp;    
-## :heavy_check_mark: Desafio(s) concluídos até o momento
+### :heavy_check_mark: Desafio(s) concluídos até o momento
 &nbsp;   
   - Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso no Bootcamp
   - Dominando Algoritmos Básicos com Desafios de Código Java  
@@ -62,7 +62,7 @@ pie showData
 &nbsp; 
 
 &nbsp;    
-## :computer: Links úteis
+### :computer: Links úteis
 &nbsp;   
 - [Curso Introdutório Collections Java](https://github.com/cami-la/curso-dio-intro-collections) (da professora Camila Cavalcante)
 - [Debugging Java](https://github.com/cami-la/debugging-java) (da professora Camila Cavalcante)
