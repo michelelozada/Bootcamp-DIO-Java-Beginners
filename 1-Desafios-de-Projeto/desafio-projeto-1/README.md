@@ -9,7 +9,7 @@
 &nbsp;    
 Diz respeito ao primeiro desafio passado no bootcamp chamado **[Java Beginners](https://www.dio.me/bootcamp/potencia-tech-powered-ifood-java-beginners)**, que está sendo promovido durante os meses de outubro e novembro de 2022 pela plataforma educacional Digital Innovation One (DIO), em parceria com o iFood/Potência Tech. 
 
-O objetivo aqui é a criação de um diretório que vá contendo o planejamento e algumas notas que descrevam meu progresso até a finalização das trilhas (data prevista: 27/11/2022).
+O objetivo aqui é a criação do primeiro repositório referente ao bootcamp, para que contenha o planejamento e algumas notas que descrevam meu progresso até a finalização das trilhas de estudo (data prevista para o término: 27/11/2022).
 
 &nbsp; 
 
