@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Bootcamp Java Begginers (2022)</h2>
-<h3>•&nbsp; Criação do Primeiro Repositório no GitHub &nbsp;•</h3>
+<h3>•&nbsp; Desafio de Projeto 1 &nbsp;•</h3>
 </div>
 &nbsp;
 &nbsp;
