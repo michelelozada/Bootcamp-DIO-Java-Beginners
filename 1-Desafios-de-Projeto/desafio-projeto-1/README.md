@@ -18,9 +18,9 @@ O objetivo aqui é a criação do primeiro repositório referente ao bootcamp, p
 &nbsp;    
 ```mermaid
 pie showData
-  title Minha evolução no bootcamp (até 15/11/2022)
-	"Trilhas pendentes" : 25
-    "Trilhas concluídas" : 75
+  title Minha evolução no bootcamp (até 17/11/2022)
+	"Trilhas pendentes" : 12.5
+    "Trilhas concluídas" : 87.5
 ```
 <div align="center">
 	<b>Trilha em andamento:</b> Programação Orientada a Objetos com Java
@@ -30,9 +30,9 @@ pie showData
 ### :bookmark_tabs: Atividades
 &nbsp;   
 **Próximos cursos programados:**  
-- [ ] Trabalhando com Collections Java
 - [ ] Principais Protocolos de Comunicação da Internet
 - [ ] Gerenciamento de Dependências e Build em Java com Maven
+- [ ] Imersão no Spring Framerwork com Spring Boot 
 
 &nbsp; 
 
@@ -47,6 +47,7 @@ pie showData
 - [x] Estruturas de Repetição e Arrays em Java
 - [x] Entendendo Métodos Java
 - [x] Programação Orientada a Objetos
+- [x] Trabalhando com Collections Java
 - [x] Debugging Java
 - [x] Tratamento de Exceções em Java
 - [x] Desafio de Projeto: Abstraindo um Bootcamp Usando a Orientação a Objetos

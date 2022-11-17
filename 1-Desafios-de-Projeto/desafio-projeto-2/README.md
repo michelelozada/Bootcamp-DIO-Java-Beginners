@@ -7,7 +7,7 @@
 
 ### 1 - Descrição:
  - Abstrair um domínio chamado **Bootcamp** e modelar seus atributos e métodos.    
- - Devem existir e ser relacionadas as seguintes classes (com seus atributos e métodos): **Bootcamp**, **Cursos**, **Mentorias** e **Devs**.  
+ - Devem existir e ser relacionadas as seguintes classes (com seus atributos e métodos): **Bootcamp**, **Curso**, **Mentoria** e **Dev**.  
 &nbsp;
 &nbsp;    
 ### 2 - Objetivos:
