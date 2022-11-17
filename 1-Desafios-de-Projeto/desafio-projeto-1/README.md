@@ -23,7 +23,7 @@ pie showData
     "Trilhas concluídas" : 87.5
 ```
 <div align="center">
-	<b>Trilha em andamento:</b> Programação Orientada a Objetos com Java
+	<b>Trilha em andamento:</b> Ganhando Produtividade com o Spring Framework
 </div>
 
 &nbsp;    
@@ -32,7 +32,7 @@ pie showData
 **Próximos cursos programados:**  
 - [ ] Principais Protocolos de Comunicação da Internet
 - [ ] Gerenciamento de Dependências e Build em Java com Maven
-- [ ] Imersão no Spring Framerwork com Spring Boot 
+- [ ] Imersão no Spring Framework com Spring Boot 
 
 &nbsp; 
 
