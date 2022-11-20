@@ -1,19 +1,20 @@
 <div align="center">
+<img src="https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/blob/main/assets/logo.png">
 <h2>Bootcamp Java Beginners (2022)</h2>
 <h3>•&nbsp; Desafio de Projeto 1 &nbsp;•</h3>
 </div>
 &nbsp;
 &nbsp;
 
-### :memo: Sobre este repositório
+### Sobre este repositório
 &nbsp;    
-Diz respeito ao primeiro desafio passado no bootcamp chamado **[Java Beginners](https://www.dio.me/bootcamp/potencia-tech-powered-ifood-java-beginners)**, que está sendo promovido durante os meses de outubro e novembro de 2022 pela plataforma educacional Digital Innovation One (DIO), em parceria com o iFood/Potência Tech. 
+Diz respeito ao primeiro desafio passado no bootcamp chamado **[Java Beginners](https://www.dio.me/bootcamp/potencia-tech-powered-ifood-java-beginners)**, promovido durante os meses de outubro e novembro de 2022 pela plataforma educacional Digital Innovation One (DIO), em parceria com o iFood/Potência Tech. 
 
 O objetivo aqui é a criação do primeiro repositório referente ao bootcamp, para que contenha o planejamento e algumas notas que descrevam meu progresso até a finalização das trilhas de estudo (data prevista para o término: 27/11/2022).
 
 &nbsp; 
 
-&nbsp;    
+&nbsp;      
 ### :hourglass_flowing_sand:  A jornada até aqui
 &nbsp;    
 ```mermaid
@@ -30,10 +31,9 @@ pie showData
 ### :bookmark_tabs: Atividades
 &nbsp;   
 **Próximos cursos programados:**  
-- [ ] Principais Protocolos de Comunicação da Internet
-- [ ] Gerenciamento de Dependências e Build em Java com Maven
 - [ ] Imersão no Spring Framework com Spring Boot 
-
+- [ ] Criando uma API REST Documentada com Spring Web e Swagger
+- [ ] Desafio de Projeto: Explorando Padrões de Projeto na Prática com Java
 &nbsp; 
 
 **Cursos já concluídos:**  
@@ -51,6 +51,8 @@ pie showData
 - [x] Debugging Java
 - [x] Tratamento de Exceções em Java
 - [x] Desafio de Projeto: Abstraindo um Bootcamp Usando a Orientação a Objetos
+- [x] Principais Protocolos de Comunicação da Internet
+- [x] Gerenciamento de Dependências e Build em Java com Maven
 - [x] + Trilha: Fortalecendo sua Carreira Profissional
 &nbsp; 
 

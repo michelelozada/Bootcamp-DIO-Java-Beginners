@@ -1,11 +1,12 @@
 <div align="center">
+<img src="https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/blob/main/assets/logo.png">
 <h2>Bootcamp Java Beginners (2022)</h2>
 <h3>•&nbsp; Desafio de Projeto 2 &nbsp;•</h3>
 </div>
 &nbsp;
 &nbsp;
 
-### 1 - Descrição:
+### 1 - Descrição do Desafio:
  - Abstrair um domínio chamado **Bootcamp** e modelar seus atributos e métodos.    
  - Devem existir e ser relacionadas as seguintes classes (com seus atributos e métodos): **Bootcamp**, **Curso**, **Mentoria** e **Dev**.  
 &nbsp;

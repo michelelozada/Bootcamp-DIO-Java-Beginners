@@ -1,11 +1,12 @@
 <div align="center">
+<img src="https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/blob/main/assets/logo.png">
 <h2>Bootcamp Java Beginners (2022)</h2>
-<h3>•&nbsp; Desafios de Código (Básicos) &nbsp;•</h3>
+<h3>•&nbsp; Desafios de Código - Básicos &nbsp;•</h3>
 </div>
 &nbsp;
 &nbsp;
 
-**Desafio de código 1**   
+**Desafio de código # 1**   
 Receba dois números e verifique se eles são iguais. Caso sejam, retorne "São iguais!"; senão, retorne "Não são iguais!".   
  
 ***Exemplo:***
@@ -22,7 +23,7 @@ Receba dois números e verifique se eles são iguais. Caso sejam, retorne "São 
 &nbsp;
 
 &nbsp;  
-**Desafio de código 2**   
+**Desafio de código # 2**   
 Dado um número A e seu limite N, encontre a soma de todos os múltiplos de A até o seu limite N.  
 
 ***Exemplo:***
@@ -38,7 +39,7 @@ Dado um número A e seu limite N, encontre a soma de todos os múltiplos de A at
 &nbsp;
 
 &nbsp;  
-**Desafio de código 3**  
+**Desafio de código # 3**  
 Receba um número inteiro N, calcule e imprima o somatório de todos os números de N até 0.  
  
 ***Exemplo:***
@@ -55,7 +56,7 @@ Receba um número inteiro N, calcule e imprima o somatório de todos os números
 &nbsp;
 
 &nbsp;  
-**Desafio de código 4**
+**Desafio de código # 4**
 
 Crie uma função que tenha um núemro como argumento e que retorne a string:
  - "FizzBuzz", se o número for um múltiplo de 3 e 5;
@@ -78,7 +79,7 @@ Crie uma função que tenha um núemro como argumento e que retorne a string:
 &nbsp;
 
 &nbsp;  
-**Desafio de código 5**
+**Desafio de código # 5**
 
 Uma busca sequencial se caracteriza por percorrermos todos os elementos de uma estrutura em busca do elemento “X” desejado. Dessa forma,
 considerando um array com os seguintes elementos: {64, 137, -16, 43, 67, 81, -90, 212, 10, 75}: 
