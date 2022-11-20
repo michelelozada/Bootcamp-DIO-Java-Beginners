@@ -25,5 +25,3 @@ Fornecer uma trilha de estudos composta por cursos, mentorias, desafios de códi
 &nbsp;
 
 &nbsp;    
-### Meu Certificado de Conclusão
-Emitido em 23 de novembro de 2022. Disponível [neste link]().
