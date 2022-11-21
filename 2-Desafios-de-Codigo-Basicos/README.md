@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/blob/main/assets/logo.png">
 <h2>Bootcamp Java Beginners (2022)</h2>
-<h3>•&nbsp; Desafios de Código - Básicos &nbsp;•</h3>
+<h3>•&nbsp; Desafios de Código - Algoritmos Básicos &nbsp;•</h3>
 </div>
 &nbsp;
 &nbsp;
@@ -101,3 +101,9 @@ considerando um array com os seguintes elementos: {64, 137, -16, 43, 67, 81, -90
 +---------+-----------------------------------+
 ```
 [**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos/files/5-desafio-basico-5.java)
+&nbsp;
+
+&nbsp;    
+<div align="center">
+<a href="https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners">Voltar à tela inicial do repositório</a>
+</div>

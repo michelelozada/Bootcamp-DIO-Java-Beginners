@@ -19,7 +19,7 @@ O objetivo aqui é a criação do primeiro repositório referente ao bootcamp, p
 &nbsp;    
 ```mermaid
 pie showData
-  title Minha evolução no bootcamp (até 17/11/2022)
+  title Minha evolução no bootcamp (até 21/11/2022)
 	"Trilhas pendentes" : 12.5
     "Trilhas concluídas" : 87.5
 ```
@@ -31,7 +31,6 @@ pie showData
 ### :bookmark_tabs: Atividades
 &nbsp;   
 **Próximos cursos programados:**  
-- [ ] Imersão no Spring Framework com Spring Boot 
 - [ ] Criando uma API REST Documentada com Spring Web e Swagger
 - [ ] Desafio de Projeto: Explorando Padrões de Projeto na Prática com Java
 &nbsp; 
@@ -53,6 +52,7 @@ pie showData
 - [x] Desafio de Projeto: Abstraindo um Bootcamp Usando a Orientação a Objetos
 - [x] Principais Protocolos de Comunicação da Internet
 - [x] Gerenciamento de Dependências e Build em Java com Maven
+- [x] Imersão no Spring Framework com Spring Boot 
 - [x] + Trilha: Fortalecendo sua Carreira Profissional
 &nbsp; 
 
@@ -60,6 +60,7 @@ pie showData
 ### :heavy_check_mark: Desafio(s) concluídos até o momento
 &nbsp;   
   - Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso no Bootcamp
+  - Aplicando Conceitos da OO com o Java, através da Abstração de um Domínio Chamado Bootcamp
   - Dominando Algoritmos Básicos com Desafios de Código Java  
   - Dominando Algoritmos Intermediários com Desafios de Código Java 
 &nbsp; 
@@ -74,3 +75,9 @@ pie showData
 - [Java Básico](https://glysns.gitbook.io/java-basico) (do professor Gleyson Sampaio)
 - [Loops e Arrays](https://github.com/cami-la/loops-e-arrays) (da professora Camila Cavalcante)
 - [Tratamento de Exceções em Java](https://github.com/cami-la/exceptions-java) (da professora Camila Cavalcante)
+&nbsp;
+
+&nbsp;    
+<div align="center">
+<a href="https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners">Voltar à tela inicial do repositório</a>
+</div>
