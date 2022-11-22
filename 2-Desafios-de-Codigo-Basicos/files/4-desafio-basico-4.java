@@ -13,7 +13,7 @@ public class Desafio {
 			System.out.println(numero);
 		}
 	}
-
+	
 	public static void main(String[] args) {
 		// Criação do objeto da classe Scanner para leitura dos dados
 		Scanner number = new Scanner(System.in);
