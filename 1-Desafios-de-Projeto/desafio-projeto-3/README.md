@@ -11,8 +11,8 @@
 &nbsp;
 &nbsp;     
 ### 2 - Objetivos:
- - Primeiramente, entender como são implementados, com Java “puro”, os seguintes padrões de projeto: ***Singleton***, ***Strategy*** e ***Facade***.    
- - Logo após, implementando novamente estes mesmos três padrões, entender como isso se acontece ao ser utilizado o Spring Framework.  
+ - Primeiramente, entender como são implementados, com Java “puro”, os seguintes padrões de projeto: *Singleton*, *Strategy* e *Facade*.    
+ - Logo após, implementando novamente estes mesmos três padrões, entender como isso acontece ao ser utilizado o Spring Framework.  
 &nbsp;
 &nbsp;    
 ### 3 - Resultados do projeto:
