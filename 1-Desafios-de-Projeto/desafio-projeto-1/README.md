@@ -8,9 +8,9 @@
 
 ### Sobre este repositório
 &nbsp;    
-Diz respeito ao primeiro desafio passado no bootcamp chamado **[Java Beginners](https://www.dio.me/bootcamp/potencia-tech-powered-ifood-java-beginners)**, promovido durante os meses de outubro e novembro de 2022 pela plataforma educacional Digital Innovation One (DIO), em parceria com o iFood/Potência Tech. 
+Diz respeito ao primeiro desafio passado no bootcamp Java Beginners, que foi promovido durante os meses de outubro e novembro de 2022 pela plataforma educacional Digital Innovation One (DIO), em parceria com o iFood/Potência Tech. 
 
-O objetivo aqui é a criação do primeiro repositório referente ao bootcamp, para que contenha o planejamento e algumas notas que descrevam meu progresso até a finalização das trilhas de estudo (data prevista para o término: 27/11/2022).
+O objetivo aqui é a criação do primeiro repositório referente ao bootcamp, para que contenha o planejamento e algumas obervações que descrevam meu progresso até a finalização das trilhas de estudo *(data prevista para o término: 27/11/2022)*.
 
 &nbsp; 
 
@@ -19,23 +19,22 @@ O objetivo aqui é a criação do primeiro repositório referente ao bootcamp, p
 &nbsp;    
 ```mermaid
 pie showData
-  title Minha evolução no bootcamp (até 21/11/2022)
-	"Trilhas pendentes" : 12.5
-    "Trilhas concluídas" : 87.5
+  title Minha evolução no bootcamp (até 22/11/2022)
+	"Trilhas pendentes" : 0.0
+    "Trilhas concluídas" : 100.0
 ```
 <div align="center">
-	<b>Trilha em andamento:</b> Ganhando Produtividade com o Spring Framework
+	<b>Última trilha realizada:</b> Ganhando Produtividade com o Spring Framework
 </div>
 
 &nbsp;    
 ### :bookmark_tabs: Atividades
 &nbsp;   
 **Próximos cursos programados:**  
-- [ ] Criando uma API REST Documentada com Spring Web e Swagger
-- [ ] Desafio de Projeto: Explorando Padrões de Projeto na Prática com Java
+*(Todos os cursos realizados)*  
 &nbsp; 
 
-**Cursos já concluídos:**  
+**Cursos concluídos:**  
 - [x] Introdução ao Desenvolvimento Moderno de Software 
 - [x] Introdução à Programação e Pensamento Computacional 
 - [x] Introdução ao Git e GitHub 
@@ -53,16 +52,19 @@ pie showData
 - [x] Principais Protocolos de Comunicação da Internet
 - [x] Gerenciamento de Dependências e Build em Java com Maven
 - [x] Imersão no Spring Framework com Spring Boot 
+- [x] Criando uma API REST Documentada com Spring Web e Swagger
+- [x] Desafio de Projeto: Explorando Padrões de Projeto na Prática com Java
 - [x] + Trilha: Fortalecendo sua Carreira Profissional
 &nbsp; 
 
 &nbsp;    
-### :heavy_check_mark: Desafio(s) concluídos até o momento
+### :heavy_check_mark: Desafio(s) concluídos
 &nbsp;   
-  - Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso no Bootcamp
-  - Aplicando Conceitos da OO com o Java, através da Abstração de um Domínio Chamado Bootcamp
-  - Dominando Algoritmos Básicos com Desafios de Código Java  
-  - Dominando Algoritmos Intermediários com Desafios de Código Java 
+  - Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso no Bootcamp [(link)](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/1-Desafios-de-Projeto/desafio-projeto-1)    
+  - Aplicando Conceitos da OO com o Java, através da Abstração de um Domínio Chamado Bootcamp [(link)](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/1-Desafios-de-Projeto/desafio-projeto-2)    
+  - Implementar com Java “puro” e com o framework Spring os padrões de projeto *Singleton*, *Strategy* e *Facade* [(link)](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/1-Desafios-de-Projeto/desafio-projeto-3)
+  - Dominando Algoritmos Básicos com Desafios de Código Java [(link)](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos)      
+  - Dominando Algoritmos Intermediários com Desafios de Código Java [(link)](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/3-Desafios-de-Codigo-Intermediarios)     
 &nbsp; 
 
 &nbsp;    
