@@ -15,15 +15,15 @@ Fornecer aos participantes uma trilha de estudos composta por cursos, mentorias,
 &nbsp;
 &nbsp;    
 ### Desafios de Projeto Entregues
-  - Desafio de Projeto 1: [Criar seu Primeiro Repositório no GitHub para Acompanhar seu Progresso no Bootcamp](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/1-Desafios-de-Projeto/desafio-projeto-1)  
-  - Desafio de Projeto 2: [Aplicar Conceitos da OO com o Java, através da Abstração de um Domínio Chamado Bootcamp](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/1-Desafios-de-Projeto/desafio-projeto-2)    
-  - Desafio de Projeto 3: [Implementar com Java “puro” e com o framework Spring os padrões de projeto *Singleton*, *Strategy* e *Facade*](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/1-Desafios-de-Projeto/desafio-projeto-3)  
+  - [Desafio de Projeto 1](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/1-Desafios-de-Projeto/desafio-projeto-1): Criar seu Primeiro Repositório no GitHub para Acompanhar seu Progresso no Bootcamp
+  - [Desafio de Projeto 2](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/1-Desafios-de-Projeto/desafio-projeto-2): Aplicar Conceitos da OO com Java, através da Abstração de um Domínio Chamado Bootcamp   
+  - [Desafio de Projeto 3](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/1-Desafios-de-Projeto/desafio-projeto-3): Implementar com Java “puro” e com o framework Spring os padrões de projeto *Singleton*, *Strategy* e *Facade*  
 &nbsp;
 &nbsp;     
 ### Desafios de Código Realizados
-   - Desafios de Código 1: [Resolução de Algoritmos Básicos](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos)  
-   - Desafios de Código 2: [Resolução de Algoritmos Intermediários](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/3-Desafios-de-Codigo-Intermediarios)    
+   - [Desafios de Código 1](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos): Resolução de Algoritmos Básicos
+   - [Desafios de Código 2](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/3-Desafios-de-Codigo-Intermediarios): Resolução de Algoritmos Intermediários    
 &nbsp;
 &nbsp;     
 ### Certificado de Conclusão do Bootcamp
-Emitido em 22 de novembro de 2022 (pode ser acessado [neste link](https://drive.google.com/file/d/1qzepaK_GxVdyTqpa3JfkNlr5Q9PzaxwV/view?usp=sharing)).
+Emitido em 22 de novembro de 2022 ([pode ser acessado neste link](https://drive.google.com/file/d/1qzepaK_GxVdyTqpa3JfkNlr5Q9PzaxwV/view?usp=sharing)).
