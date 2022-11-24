@@ -6,7 +6,8 @@
 &nbsp;
 &nbsp;
 
-**Desafio de código # 1**   
+:arrow_forward: **Desafio de código # 1**   
+
 Receba dois números e verifique se eles são iguais. Caso sejam, retorne "São iguais!"; senão, retorne "Não são iguais!".   
  
 ***Exemplo:***
@@ -19,11 +20,12 @@ Receba dois números e verifique se eles são iguais. Caso sejam, retorne "São 
 |       38 |        90 | Não são iguais |
 +----------+-----------+----------------+
 ```
-[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos/files/1-desafio-basico-1.java)
+[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos/files/desafio-basico-1.java)
 &nbsp;
 
 &nbsp;  
-**Desafio de código # 2**   
+:arrow_forward: **Desafio de código # 2**   
+
 Dado um número A e seu limite N, encontre a soma de todos os múltiplos de A até o seu limite N.  
 
 ***Exemplo:***
@@ -35,11 +37,12 @@ Dado um número A e seu limite N, encontre a soma de todos os múltiplos de A at
 |        3 |        18 |    63 |
 +----------+-----------+-------+
 ```
-[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos/files/2-desafio-basico-2.java)
+[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos/files/desafio-basico-2.java)
 &nbsp;
 
 &nbsp;  
-**Desafio de código # 3**  
+:arrow_forward: **Desafio de código # 3**  
+
 Receba um número inteiro N, calcule e imprima o somatório de todos os números de N até 0.  
  
 ***Exemplo:***
@@ -52,11 +55,11 @@ Receba um número inteiro N, calcule e imprima o somatório de todos os números
 |      15 |   120 |
 +---------+-------+
 ```
-[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos/files/3-desafio-basico-3.java)
+[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos/files/desafio-basico-3.java)
 &nbsp;
 
 &nbsp;  
-**Desafio de código # 4**
+:arrow_forward: **Desafio de código # 4**
 
 Crie uma função que tenha um núemro como argumento e que retorne a string:
  - "FizzBuzz", se o número for um múltiplo de 3 e 5;
@@ -75,11 +78,11 @@ Crie uma função que tenha um núemro como argumento e que retorne a string:
 |       4 | 4        |
 +---------+----------+
 ```
-[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos/files/4-desafio-basico-4.java)
+[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos/files/desafio-basico-4.java)
 &nbsp;
 
 &nbsp;  
-**Desafio de código # 5**
+:arrow_forward: **Desafio de código # 5**
 
 Uma busca sequencial se caracteriza por percorrermos todos os elementos de uma estrutura em busca do elemento “X” desejado. Dessa forma,
 considerando um array com os seguintes elementos: {64, 137, -16, 43, 67, 81, -90, 212, 10, 75}: 
@@ -100,7 +103,7 @@ considerando um array com os seguintes elementos: {64, 137, -16, 43, 67, 81, -90
 |       4 | Número 4 não encontrado no array! |
 +---------+-----------------------------------+
 ```
-[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos/files/5-desafio-basico-5.java)
+[**Resolução**](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners/tree/main/2-Desafios-de-Codigo-Basicos/files/desafio-basico-5.java)
 &nbsp;
 
 &nbsp;    
