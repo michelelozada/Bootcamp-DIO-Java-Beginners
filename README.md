@@ -32,6 +32,6 @@ Emitido em 22 de novembro de 2022 ([pode ser acessado neste link](https://drive.
 &nbsp;    
 <div align="center">
   
-  [[Voltar ao topo]](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners#-tela-inicial-)
+  [[Voltar ao topo]](https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners#bootcamp-java-beginners-2022)
   
 </div>

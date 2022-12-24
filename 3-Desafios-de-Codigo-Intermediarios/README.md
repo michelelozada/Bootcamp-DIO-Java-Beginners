@@ -147,5 +147,5 @@ Explicação: 10 * 9 / 8 + 7 - 6 * 5 / 4 + 3 - 2 * 1 = 12
 
 &nbsp;    
 <div align="center">
-<a href="https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners">Voltar à tela inicial do repositório</a>
+<a href="https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners">[Voltar à tela inicial do repositório]</a>
 </div>

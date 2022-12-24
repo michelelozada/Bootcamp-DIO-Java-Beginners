@@ -108,5 +108,5 @@ considerando um array com os seguintes elementos: {64, 137, -16, 43, 67, 81, -90
 
 &nbsp;    
 <div align="center">
-<a href="https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners">Voltar à tela inicial do repositório</a>
+<a href="https://github.com/michelelozada/Bootcamp-DIO-Java-Beginners">[Voltar à tela inicial do repositório]</a>
 </div>
